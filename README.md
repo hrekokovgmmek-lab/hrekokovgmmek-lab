@@ -1,6 +1,6 @@
 # Artem Vartanov
 
-**Solana developer — low-latency trading systems and on-chain analytics.**
+**On-chain analyst and Solana developer — fund-flow investigations and fast trading systems.**
 
 I build trading bots and monitoring tools for Solana and back every number with measurements. My own system,
 memesniper, has made **1,263 live trades** on Solana mainnet: **under 1 s** from signal to a sent transaction, a
