@@ -6,6 +6,9 @@ I build trading bots and monitoring tools for Solana and back every number with 
 memesniper, has made **1,263 live trades** on Solana mainnet: **under 1 s** from signal to a sent transaction, a
 **3.3 GB** market dataset and **25+ preregistered experiments**.
 
+**Site:** [hrekokovgmmek-lab.github.io](https://hrekokovgmmek-lab.github.io) — a fund-flow investigation with charts, the
+trading system, how I check numbers, and these tools.
+
 ### What I build
 
 - **Trading bots** — sniping, target / stop / time-based exits, manual-control terminals
@@ -38,4 +41,4 @@ Electron · node:test
 
 ### Contact
 
-Telegram — [@artemvartanov](https://t.me/artemvartanov) · Russian and English (B1–B2) · UTC+3
+Site — [hrekokovgmmek-lab.github.io](https://hrekokovgmmek-lab.github.io) · Telegram — [@artemvartanov](https://t.me/artemvartanov) · Russian and English (B1–B2) · UTC+3
